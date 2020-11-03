@@ -11,3 +11,10 @@ six==1.15.0
 sqlparse==0.4.1
 toml==0.10.1
 wrapt==1.12.1
+
+ipdb==0.8
+ipython==2.1.0
+pytest==2.5.2
+pytest-django==2.6.2
+pytest-xdist==1.10
+simplejson
